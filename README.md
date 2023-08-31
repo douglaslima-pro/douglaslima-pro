@@ -14,8 +14,8 @@ Console.WriteLine("Albert Einstein");
 
 |Nível|Curso|Instituição|Status|
 |-|-|-|-|
-|Tecnólogo|Análise e Desenvolvimento de Sistemas|Universidade Católica de Brasília|Em progresso|
 |Técnico|Informática|Escola Técnica de Ceilândia|Concluído|
+|Tecnólogo|Análise e Desenvolvimento de Sistemas|Universidade Católica de Brasília|Em progresso|
 
 > [!NOTE]
 > Encontre informações mais recentes sobre mim no meu [Linkedin](https://linkedin.com/in/douglaslima-pro/)!
