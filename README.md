@@ -1,12 +1,21 @@
-##
-<div>
-  <a hef="https://beacons.ai/douglaslima-pro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaslima-pro&show_icons=true&theme=highcontrast"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima-pro&layout=compact&theme=highcontrast"/>
-</div>
+# **Douglas Souza de Lima**
 
-<div>
-    <a href="mailto:douglaslima-pro@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-    <a href="https://linkedin.com/in/douglaslima-pro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-</div>
+No momento estudando a linguagem **C#** e as frameworks **.NET** e **Angular**.
+
+Todo projeto desenvolvido por mim será postado aqui para que os recrutadores possam ver.
+
+```
+Console.WriteLine("The true sign of intelligence is not knowledge but imagination.");
+
+Console.WriteLine("Albert Einstein");
+```
+
+### ✏ Formação Acadêmica
+
+|Nível|Curso|Instituição|Status|
+|-|-|-|-|
+|Tecnólogo|Análise e Desenvolvimento de Sistemas|Universidade Católica de Brasília|Em progresso|
+|Técnico|Informática|Escola Técnica de Ceilândia|Concluído|
+
+> [!NOTE]
+> Encontre informações mais recentes sobre mim no meu [Linkedin](https://linkedin.com/in/douglaslima-pro/)!
