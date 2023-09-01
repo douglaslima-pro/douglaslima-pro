@@ -14,28 +14,9 @@ Console.WriteLine("Albert Einstein");
 - WhatsApp: (61) 98549-7046
 - E-mail: [douglaslima-pro@outlook.com](mailto:douglaslima-pro@outlook.com)
 
-### 📝 Objetivos
-#### Estudos
-- [ ] Alura - Formação de C#
-- [ ] Alura - Formação de .NET
-- [ ] Alura - Formação de Angular
-- [ ] Alura - Formação de SQL Server
-#### Carreira
-- [ ] Estágio em desenvolvimento
-- [ ] Desenvolvedor Jr.
-
 ### 🎬 Projetos desenvolvidos
 - Mi&Au: HTML, CSS, JS, PHP e MySQL
 - [Guess the Number](https://github.com/douglaslima-pro/guess-the-number): C#
-
-### ✏ Formação Acadêmica
-
-|Nível|Curso|Instituição|Status|
-|-|-|-|-|
-|Técnico|Informática[^1]|Escola Técnica de Ceilândia|Concluído|
-|Tecnólogo|Análise e Desenvolvimento de Sistemas|Universidade Católica de Brasília|Em progresso|
-
-[^1]: Eu desenvolvi o projeto Mi&Au durante o curso.
 
 ### 💡 Habilidades
 |Nome|Nível|
@@ -48,6 +29,15 @@ Console.WriteLine("Albert Einstein");
 |MySQL|Básico|
 |Oracle Database 19c|Básico|
 |Python|Básico|
+
+### ✏ Formação Acadêmica
+
+|Nível|Curso|Instituição|Status|
+|-|-|-|-|
+|Técnico|Informática[^1]|Escola Técnica de Ceilândia|Concluído|
+|Tecnólogo|Análise e Desenvolvimento de Sistemas|Universidade Católica de Brasília|Em progresso|
+
+[^1]: Eu desenvolvi o projeto Mi&Au durante o curso.
 
 > [!NOTE]
 > Encontre mais informações sobre mim no meu [Linkedin](https://linkedin.com/in/douglaslima-pro/)!
