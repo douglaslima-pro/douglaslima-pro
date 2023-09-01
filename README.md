@@ -15,12 +15,12 @@ Console.WriteLine("Albert Einstein");
 - E-mail: [douglaslima-pro@outlook.com](mailto:douglaslima-pro@outlook.com)
 
 ### 📝 Objetivos
-**Estudos**
+#### Estudos
 - [ ] Alura - Formação de C#
 - [ ] Alura - Formação de .NET
 - [ ] Alura - Formação de Angular
 - [ ] Alura - Formação de SQL Server
-**Carreira**
+#### Carreira
 - [ ] Estágio em desenvolvimento
 - [ ] Desenvolvedor Jr.
 
