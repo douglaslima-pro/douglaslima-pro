@@ -15,7 +15,7 @@ Console.WriteLine("Albert Einstein");
 - E-mail: [douglaslima-pro@outlook.com](mailto:douglaslima-pro@outlook.com)
 
 ### 🎬 Projetos desenvolvidos
-- Mi&Au: HTML, CSS, JS, PHP e MySQL
+- [Mi&Au](https://github.com/douglaslima-pro/Mi-Au/): HTML, CSS, JS, PHP e MySQL
 - [Guess the Number](https://github.com/douglaslima-pro/guess-the-number): C#
 
 ### 💡 Habilidades
