@@ -1,5 +1,5 @@
 <!--Efeito de type writing: "Douglas Souza de Lima"-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=-apple-system&weight=600&size=32&pause=1000&color=F7F7F7&width=435&lines=Douglas+Souza+de+Lima)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=-apple-system&weight=600&size=32&pause=1000&color=F7F7F7&width=435&lines=Douglas+Souza+de+Lima)](#)
 
 No momento estudando a linguagem **C#** e as frameworks **.NET** e **Angular**.
 
