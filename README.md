@@ -20,21 +20,15 @@ Console.WriteLine("Albert Einstein");
 
 [^1]: Eu desenvolvi o projeto Mi&Au durante o curso técnico de Informática.
 
-<br>
-
 ### 📞 Contatos
 - WhatsApp: (61) 98549-7046
 - E-mail: [douglaslima-pro@outlook.com](mailto:douglaslima-pro@outlook.com)
 - Linkedin: [douglaslima-pro](https://linkedin.com/in/douglaslima-pro)
 
-<br>
-
 ### 🎬 Projetos desenvolvidos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=Mi-Au&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglaslima-pro/Mi-Au)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=Mi-Au&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/Mi-Au)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=guess-the-number&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglaslima-pro/guess-the-number)
-
-<br>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=guess-the-number&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/guess-the-number)
 
 ### 💡 Habilidades
 **Intermediário**
