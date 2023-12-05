@@ -1,7 +1,7 @@
 <!--Efeito de type writing: "Douglas Souza de Lima"-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=-apple-system&weight=600&size=32&pause=1000&color=F7F7F7&width=435&lines=Douglas+Souza+de+Lima)](#)
 
-No momento estudando a linguagem **C#** e as frameworks **.NET** e **Angular**.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
 Todo projeto desenvolvido por mim será postado aqui para que os recrutadores possam ver.
 
@@ -26,6 +26,9 @@ Console.WriteLine("Albert Einstein");
 - Linkedin: [douglaslima-pro](https://linkedin.com/in/douglaslima-pro)
 
 ### 🎬 Projetos desenvolvidos
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=glico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/glico)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=Mi-Au&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/Mi-Au)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=guess-the-number&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/guess-the-number)
@@ -35,10 +38,8 @@ Console.WriteLine("Albert Einstein");
 > - HTML
 > - CSS
 > - SQL
+> - C
 
 **Básico**
 > - JavaScript
 > - PHP
-> - MySQL
-> - Oracle Database 19c
-> - Python
