@@ -31,9 +31,11 @@ Console.WriteLine("Albert Einstein");
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=Mi-Au&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/Mi-Au)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=guess-the-number&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/guess-the-number)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=sistema-bancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/sistema-bancario)
 
 ### 💡 Habilidades
+![douglaslima-pro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima-pro&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 **Intermediário**
 > - HTML
 > - CSS
