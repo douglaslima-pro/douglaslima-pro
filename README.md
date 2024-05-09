@@ -6,9 +6,9 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 Todo projeto desenvolvido por mim será postado aqui para que os recrutadores possam ver.
 
 ```
-Console.WriteLine("The true sign of intelligence is not knowledge but imagination.");
+System.out.println("The true sign of intelligence is not knowledge but imagination.");
 
-Console.WriteLine("Albert Einstein");
+System.out.println("Albert Einstein");
 ```
 
 ### ✏ Formação Acadêmica
