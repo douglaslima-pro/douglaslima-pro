@@ -11,13 +11,6 @@ System.out.println("The true sign of intelligence is not knowledge but imaginati
 System.out.println("Albert Einstein");
 ```
 
-### ✏ Formação Acadêmica
-
-|Nível|Curso|Instituição|Status|
-|-|-|-|-|
-|Técnico|Informática[^1]|Escola Técnica de Ceilândia|Concluído|
-|Tecnólogo|Análise e Desenvolvimento de Sistemas|Universidade Católica de Brasília|Em progresso|
-
 ### 🎬 Projetos
 
 API REST de Gerenciamento de Acessos e Autorização
