@@ -5,9 +5,7 @@
 
 Eu espero que você encontre aqui **ideias fascinantes** através dos meus projetos e se sinta a vontade de colaborar com a sua experiência e conhecimento técnico.
 
-No momento, eu estou aprofundando os meus conhecimentos em desenvolvimento backend com a linguagem **Java** e o framework **Spring Boot**.
-
-Além disso, eu **estou em busca de uma oportunidade** na área de desenvolvimento de software e estou ansioso para colaborar com uma equipe dinâmica, aprender continuamente e crescer profissionalmente.
+No momento, eu estou aprofundando os meus conhecimentos em desenvolvimento backend com a linguagem **C#** e a plataforma de desenvolvimento **.NET**.
 
 ```
 System.out.println("The true sign of intelligence is not knowledge but imagination.");
