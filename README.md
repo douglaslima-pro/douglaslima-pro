@@ -3,9 +3,9 @@
 
 ## Bem-vindo ao meu site do GitHub!
 
-Eu espero que você encontre aqui **ideias fascinantes** através dos meus projetos e se sinta a vontade de colaborar com a sua experiência e conhecimento técnico.
+Eu sou um **Desenvolvedor Web** que desenvolve sistemas web para a Caixa Econômica Federal com o uso de tecnologias como: `ASP.NET Core`, `C#`, `JavaScript`, `JQuery`, `Bootstrap`, etc.
 
-No momento, eu estou aprofundando os meus conhecimentos em desenvolvimento backend com a linguagem **C#** e a plataforma de desenvolvimento **.NET**.
+No momento estou me especializando nos estudos da plataforma .NET e a linguagem C#.
 
 ```
 System.out.println("The true sign of intelligence is not knowledge but imagination.");
