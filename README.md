@@ -29,8 +29,3 @@ Sistema de Operações Bancárias
 
 ## 💡 Habilidades
 ![douglaslima-pro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima-pro&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-## 📞 Contatos
-- WhatsApp: (61) 98549-7046
-- E-mail: [douglaslima-pro@outlook.com](mailto:douglaslima-pro@outlook.com)
-- Linkedin: [douglaslima-pro](https://linkedin.com/in/douglaslima-pro)
