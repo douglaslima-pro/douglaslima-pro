@@ -19,9 +19,5 @@ Sistema WEB de Monitoramento de Dados de Glicemia
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=proeventos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/proeventos)
 
-Sistema de Operações Bancárias
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglaslima-pro&repo=wr-cursos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&PAT_1)](https://github.com/douglaslima-pro/wr-cursos)
-
 ## 💡 Habilidades
 ![douglaslima-pro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslima-pro&theme=dark&show_icons=true&hide_border=true&layout=compact)
