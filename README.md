@@ -4,7 +4,7 @@
 Atuo como **Desenvolvedor Web** focado em desenvolvimento de sistemas com tecnologias de back-end e front-end: `ASP.NET MVC`, `.NET Framework`, `C#`, `HTML`, `CSS`, `JavaScript`, `JQuery`, `Bootstrap`, etc.
 
 ```
-System.out.println("The true sign of intelligence is not knowledge but imagination.");
+Console.WriteLine("The true sign of intelligence is not knowledge but imagination.");
 
-System.out.println("Albert Einstein");
+Console.WriteLine("Albert Einstein");
 ```
